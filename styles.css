@@ -4,6 +4,15 @@
     font-family: "Arial Black", Arial, sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
+
+.recipe-title {
+    font-style: italic;
+    color: darkslategray;
+}
+
 /* List of elements to change:
 >color
 >background-color
