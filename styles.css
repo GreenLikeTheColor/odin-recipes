@@ -26,3 +26,9 @@ img {
     font-size: large;
     font-weight: bold;
 }
+
+.description {
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+}
