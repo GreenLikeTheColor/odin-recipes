@@ -13,13 +13,17 @@ h1 {
     color: darkslategray;
 }
 
+img {
+    height:auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+/*display and margins are from w3, not TOP */
+}
 /* List of elements to change:
->color
->background-color
->font-family
 >font-size
 >font-weight
->text-align
 >height (img)
 >width (img)
 */
