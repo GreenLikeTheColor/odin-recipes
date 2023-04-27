@@ -1,5 +1,8 @@
 /* Style sheet for Odin-Recipes html files*/
-
+* {
+    background-color: honeydew;
+    font-family: "Arial Black", Arial, sans-serif;
+}
 
 /* List of elements to change:
 >color
