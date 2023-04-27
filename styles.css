@@ -21,9 +21,8 @@ img {
     margin-right: auto;
 /*display and margins are from w3, not TOP */
 }
-/* List of elements to change:
->font-size
->font-weight
->height (img)
->width (img)
-*/
+
+.subtitle {
+    font-size: large;
+    font-weight: bold;
+}
